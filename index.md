@@ -55,3 +55,29 @@ For inline code, wrap the text with backticks (`). For larger blocks of code, us
 print('Hello, Markdown!')
 ```
 
+## Lists
+
+Markdown supports ordered (numbered) and unordered (bulleted) lists.
+
+### Unordered List
+
+```markdown
+- Item 1
+- Item 2
+  - Item 2a
+  - Item 2b
+```
+
+### Ordered List
+
+```markdown
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
+```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
